@@ -1,4 +1,4 @@
-# 🚀 Router Configuration & Blog Management API
+# 🚀 Router Configuration & task1-network
 
 ## 📌 Task Overview: Router Configuration
 
@@ -25,7 +25,7 @@
 To submit your solution, follow these steps:
 
 ### **1️⃣ Fork the Repository**
-Fork the project repository from GitHub: 🔗 [IT Club Blog Management API](https://github.com/IT-Club-task1-network)
+Fork the project repository from GitHub: 🔗 [IT Club task1-network](https://github.com/IT-Club-task1-network)
 
 ### **2️⃣ Clone Your Forked Repository**
 ```bash
