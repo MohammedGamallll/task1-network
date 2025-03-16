@@ -8,16 +8,23 @@
 - Configure a **secret password** for security.
 - Enable and configure **Telnet access** on the routers.
 
-### **2️⃣ IP Address Assignment**
+### **2️⃣ Network Topology**
+- **Number of PCs:** 4 (**PC0, PC1, PC2, PC3**)
+- **Number of Switches:** 2
+  - **Switch 1:** Connected to **PC0 & PC1**
+  - **Switch 2:** Connected to **PC2 & PC3**
+
+### **3️⃣ IP Address Assignment**
 - Assign **IP addresses** to the router interfaces.
 - Configure **DHCP** on the routers to dynamically assign IPs to the end devices.
 
-### **3️⃣ Routing Configuration (R2)**
+### **4️⃣ Routing Configuration (R2)**
 - Configure **static routing** on **R2** for network connectivity.
 
-### **4️⃣ Connectivity Testing**
+### **5️⃣ Connectivity Testing**
 - Test **remote access** to the devices.
-- Perform a **ping test** between all connected devices to ensure successful communication.
+- Perform a **ping test** between all connected devices.
+- Ensure **PC0 can successfully ping PC3**.
 
 ---
 
